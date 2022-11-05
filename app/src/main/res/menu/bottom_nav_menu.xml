@@ -13,9 +13,9 @@
     <item
         android:id="@+id/favourite_menu"
         android:title="My Ads"
-        android:icon="@drawable/ic_home" />
+        android:icon="@drawable/ic_favourite" />
     <item
         android:id="@+id/profile_menu"
         android:title="Profile"
-        android:icon="@drawable/ic_home" />
+        android:icon="@drawable/ic_profile" />
 </menu>
